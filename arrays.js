@@ -38,13 +38,13 @@ function removeElementFromBeginningOfArray(myArray) {
 }
 
 function destructivelyRemoveElementFromEndOfArray(myArray) {
-  myArray.shift([3])
+  myArray.
   return myArray 
 }
 
 function removeElementFromEndOfArray(myArray) {
   myArray = [1, 2, 3]
-  myArray.shift([3])
+  myArray.
   return myArray
 }
 
