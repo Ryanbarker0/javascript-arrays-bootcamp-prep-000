@@ -38,13 +38,13 @@ function removeElementFromBeginningOfArray(myArray) {
 }
 
 function destructivelyRemoveElementFromEndOfArray(myArray) {
-  myArray.
+  myArray.pop()
   return myArray 
 }
 
 function removeElementFromEndOfArray(myArray) {
   myArray = [1, 2, 3]
-  myArray.
+  myArray.pop()
   return myArray
 }
 
