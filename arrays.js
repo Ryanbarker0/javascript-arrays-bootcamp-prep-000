@@ -33,7 +33,7 @@ function destructivelyRemoveElementFromBeginningOfArray(myArray) {
 
 function removeElementFromBeginningOfArray(myArray) {
   myArray = [1, 2, 3]
-  myArray.slice(1)
+  myArray.shift([1])
   return myArray
 }
 
